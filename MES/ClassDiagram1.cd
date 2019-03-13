@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dataFromFile" Collapsed="true">
+    <Position X="14.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EACQAABEAAAIDQQAFQAAAABAuAAAEQAAIAAAA0QDRAg=</HashCode>
+      <FileName>dataFromFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ELEMENT" Collapsed="true">
+    <Position X="14.5" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABABAAAAAAAQBAAgAAAAAAAAIAIA=</HashCode>
+      <FileName>ELEMENT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="globalMatrixC">
+    <Position X="6.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAQAAAAAAAAAAAQABAAAAAAAAABARAACAA=</HashCode>
+      <FileName>globalMatrixC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="globalMatrixH">
+    <Position X="4.5" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAgAAAAAAAgAAAAAAAAQQABAAAAAAAAAAgAAAAEA=</HashCode>
+      <FileName>globalMatrixH.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GRID" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAACAAAEEAEAUIAAgAAEQBAAA=</HashCode>
+      <FileName>GRID.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jakobian2D">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>YAAIEgAgAAAAEgAAggAAACQIAQAAAKIAcAwgAAkBAAA=</HashCode>
+      <FileName>jakobian2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAADAAEgAAAQAAAgAAAIRAgQCABUgAQAEAAABA=</HashCode>
+      <FileName>matrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matrixC">
+    <Position X="7.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAgAAAAAAIhAAAQAACEQIAAAAAIIAMAgAAAECAAA=</HashCode>
+      <FileName>matrixC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matrixH">
+    <Position X="3.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAAIAAAAAAAAEwAAAoAAAAAoAAAAAIAAsAwAAAAAAAQ=</HashCode>
+      <FileName>matrixH.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matrixH_BC">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAIAAAADgAAAAAAACBIABAAQACAIAAAAAAAAAA=</HashCode>
+      <FileName>matrixH_BC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NODE" Collapsed="true">
+    <Position X="14.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAACDAAAAAAAAAAAAQBAAAAAAAAAAAAAAABgAGAAAAA=</HashCode>
+      <FileName>NODE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vectP">
+    <Position X="0.5" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAIIAgAIAAAAACBIABAAQACAIAAAAAACAAA=</HashCode>
+      <FileName>vectP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
